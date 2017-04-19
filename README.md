@@ -1,5 +1,1 @@
-# Mandelbrot-
-# Mandelbrot-
-# Mandelbrot-
-# Mandelbrot-
-# Mandelbrot-
+# Mandelbrot Project
